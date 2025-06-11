@@ -24,7 +24,12 @@ print (['Asabeneh', 'Python', 'Finland'])
 ## Nivel 3
 import math
 
-x1=   
+x1= 3
+x2= 2
+y1= 8
+y2= 10
+distancia = math.sqrt(((x2-x1)^2)+((y2-y1)^2))
+print ("la distancia eucladiana es de: " ) + distancia
 
 ## Dia 2 ---------------------------------------------------
 FirstName = ('Deivi')
